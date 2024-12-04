@@ -32,18 +32,18 @@
 
 
 8.  Setelah loding selesai buka multipass nya, pada tampilan awal bisa pilih iso mana yang akan di download, disini saya mendownload Ubuntu versi 24.
-    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass%20dan%20virtual%20box/img/18.png?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass/img/18.png?raw=true)
 
 
 9.  Tunggu hingga loading nya selesai.
-    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass%20dan%20virtual%20box/img/19.png?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass/img/19.png?raw=true)
 
 
 10. setelah loading selesai setting terlebih dahulu dengan spec komputer, dan vm multipass siap digunakan.
 
 
-    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass%20dan%20virtual%20box/img/20.png?raw=true)
-    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass%20dan%20virtual%20box/img/21.png?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass/img/20.png?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass/img/21.png?raw=true)
 
 
 
