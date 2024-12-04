@@ -1,3 +1,7 @@
+##DEVOPS
+
+
+
 Devops adalah singkatan dari dua kata yaitu Development dan Operation, Di mana kedua kata tersebut bermakna menggabungkan proses development pengembangan dari sebuah sistem dan operasional.
 tujuan devops untuk meningkatkan kolaborasi antara tim development dan tim operation dari mulai perencanaan hingga aplikasi/fitur ter-deliver ke pengguna. Semua itu harus dilakukan secara otomatis agar:
 
