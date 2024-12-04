@@ -31,7 +31,12 @@
     ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass%20dan%20virtual%20box/img/7.png?raw=true)
 
 
-8.  Setelah loding selesai buka multipass nya, pada tampilan awal 
+8.  Setelah loding selesai buka multipass nya, pada tampilan awal bisa pilih iso mana yang akan di download.
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass%20dan%20virtual%20box/img/18.png?raw=true)
+
+
+9.  Tunggu hingga loading nya selesai.
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass%20dan%20virtual%20box/img/19.png?raw=true)
 
 
 
