@@ -39,7 +39,7 @@
     ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass%20dan%20virtual%20box/img/19.png?raw=true)
 
 
-10. setelah loading selesai setting terlebih dahulu dengan spec komputer, dan vm multipass siap digunakan.
+<h2>10. setelah loading selesai setting terlebih dahulu dengan spec komputer, dan vm multipass siap digunakan.</h2>
     ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass%20dan%20virtual%20box/img/20.png?raw=true)
     ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20multipass%20dan%20virtual%20box/img/21.png?raw=true)
 
