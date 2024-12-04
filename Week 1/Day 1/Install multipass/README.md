@@ -1,5 +1,5 @@
 ## Install Virtual Machine (Multipass)
-<h2>
+<h3>
 
 1. Download terlebih dahulu di website ubuntu setelah selesai mendownload jalankan program nya
     pada tampilan awal bisa langsung klik next.
@@ -51,4 +51,4 @@
 
 
 
-</h2>
+</h3>
