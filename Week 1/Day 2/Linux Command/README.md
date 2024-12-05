@@ -4,7 +4,7 @@
 <h3>
 
 1. Untuk mengupdate linux menggunkan perintah berikut.
-    ![gambar]( https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/1.png?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/1.png?raw=true)
 
 2. 
     ![gambar](     ?raw=true)
