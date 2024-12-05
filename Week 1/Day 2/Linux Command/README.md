@@ -10,31 +10,31 @@
     ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/2.PNG?raw=true)
 
 3. Membuat user baru. 
-    ![gambar]( https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/3.PNG   ?raw=true) 
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/3.PNG?raw=true) 
 
 4. Login ke user yang baru.
-    ![gambar](  https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/4.PNG   ?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/4.PNG?raw=true)
 
 5. 
-    ![gambar](     ?raw=true)
+    ![gambar](?raw=true)
 
 6. 
-    ![gambar](     ?raw=true)
+    ![gambar](?raw=true)
 
 7. 
-    ![gambar](     ?raw=true)
+    ![gambar](?raw=true)
 
 8. 
-    ![gambar](     ?raw=true)
+    ![gambar](?raw=true)
 
 9. 
-    ![gambar](     ?raw=true)
+    ![gambar](?raw=true)
 
 10. 
-    ![gambar](     ?raw=true)
+    ![gambar](?raw=true)
 
 11. 
-    ![gambar](     ?raw=true)
+    ![gambar](?raw=true)
 
 
 
