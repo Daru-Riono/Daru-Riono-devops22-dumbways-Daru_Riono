@@ -6,3 +6,9 @@
 IP private cukup terproteksi sebab tidak berhubungan langsung dengan IP eksternal / umum, sehingga sulit untuk diserang para hacker.
 Lingkup area bersifat local.
 IP Private tidak bersifat unik, setiap orang bebas menggunakannya.
+
+<h4>2. IP Static</h4>
+
+<p>Koneksi antar device pertukaran data stabil dan jarang mengalami delay.</p>
+Bebas menentukan IP berapa yang mau dipakai sebagai IP address.
+Lebih mudah diingat karena IP address tetap.
