@@ -15,25 +15,25 @@
 4. 
     ![gambar](     ?raw=true)
 
-    5. 
+5. 
     ![gambar](     ?raw=true)
 
-    6. 
+6. 
     ![gambar](     ?raw=true)
 
-    7. 
+7. 
     ![gambar](     ?raw=true)
 
-    8. 
+8. 
     ![gambar](     ?raw=true)
 
-    9. 
+9. 
     ![gambar](     ?raw=true)
 
-    10. 
+10. 
     ![gambar](     ?raw=true)
 
-    11. 
+11. 
     ![gambar](     ?raw=true)
 
 
