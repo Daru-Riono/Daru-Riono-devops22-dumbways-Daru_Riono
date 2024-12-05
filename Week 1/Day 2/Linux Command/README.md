@@ -27,7 +27,7 @@
 
 7. Menghapus file di linux.
 
-    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/7.PNG?raw=true)
+    ![gambar](?raw=true)
 
 8. Menghapus folder dan file secara bersamaan di linux.
 
