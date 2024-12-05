@@ -9,11 +9,11 @@
 2. Membuat sebuah folder di linux menggunakan perintah berikut.
     ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/2.PNG?raw=true)
 
-3. Membuat user baru 
+3. Membuat user baru. 
     ![gambar](  https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/3.PNG   ?raw=true) 
 
-4. 
-    ![gambar](     ?raw=true)
+4. Login ke user yang baru.
+    ![gambar](  https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/4.PNG   ?raw=true)
 
 5. 
     ![gambar](     ?raw=true)
