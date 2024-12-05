@@ -3,7 +3,7 @@
 <h3>
 
 1. Langkah awal ketikan perintah untuk selalu update tunggu proses loading hingga selesai.
-<img src="https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20apache2%20web%20sever/img/3.png" alt="contoh" width="900" height="300">
+<img src="https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20apache2%20web%20sever/img/3.png" alt="contoh" width="150" height="280">
 
 
 2. Lalu install apache2 web server dengan perintah berikut.
