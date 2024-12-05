@@ -3,7 +3,7 @@
 
 <H4>1. IP Private</H4>
 
-<p>IP private cukup terproteksi sebab tidak berhubungan langsung dengan IP eksternal / umum, sehingga sulit untuk diserang para hacker.</p>
+<p>IP private cukup terproteksi sebab tidak berhubungan langsung dengan IP eksternal / umum, sehingga sulit untuk diserang para hacker.
 Lingkup area bersifat local.
 IP Private tidak bersifat unik, setiap orang bebas menggunakannya.</p>
 
