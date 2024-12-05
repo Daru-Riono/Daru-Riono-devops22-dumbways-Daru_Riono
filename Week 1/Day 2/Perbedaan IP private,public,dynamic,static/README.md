@@ -6,9 +6,9 @@
 
 <h4>2. IP Static</h4>
 <p>IP Static adalah IP tetap sesuai namanya. Di jaringan komputer lokal biasa di atur manual atau jika dari ISP maka IP seperti nomor telp rumah yang tetap tapi saya kurang tahu seberapa banyak ISP yang menggunakan metode seperti ini karena kebanyakan menggunakan IP Dynamic. Jadi IP Static itu biasanya digunakan untuk :</p>
-<p>Remote akses server</p>
-<p>IP Camera Monitoring</p>
-<p>Simple Domain Name</p>
+<p>1. Remote akses server</p>
+<p>2. IP Camera Monitoring</p>
+<p>3. Simple Domain Name</p>
 
 <h4>3. IP Public</h4>
 <p>IP Public adalah Internet Protocol (IP) yang bisa diakses langsung oleh internet. Jika dianalogikan, IP Public itu telepon rumah atau nomer HP yang bisa ditelepon langsung oleh semua orang. Alamat-alamat ini ditetapkan oleh InterNIC dan terdiri dari beberapa buah network identifier yang dijamin unik (tidak ada dua host yang menggunakan alamat yang sama) jika jaringan tersebut telah terhubung ke Internet.</p>
