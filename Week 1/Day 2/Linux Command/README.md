@@ -1,1 +1,41 @@
+## Linux Command
 
+
+<h3>
+
+1. 
+    ![gambar](     ?raw=true)
+
+2. 
+    ![gambar](     ?raw=true)
+
+3. 
+    ![gambar](     ?raw=true) 
+
+4. 
+    ![gambar](     ?raw=true)
+
+    5. 
+    ![gambar](     ?raw=true)
+
+    6. 
+    ![gambar](     ?raw=true)
+
+    7. 
+    ![gambar](     ?raw=true)
+
+    8. 
+    ![gambar](     ?raw=true)
+
+    9. 
+    ![gambar](     ?raw=true)
+
+    10. 
+    ![gambar](     ?raw=true)
+
+    11. 
+    ![gambar](     ?raw=true)
+
+
+
+</h3>
