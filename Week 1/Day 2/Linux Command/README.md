@@ -14,6 +14,7 @@
     ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/3.PNG?raw=true)
 
 4. Login ke user yang baru.
+
     ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/4.PNG?raw=true)
 
 5. 
