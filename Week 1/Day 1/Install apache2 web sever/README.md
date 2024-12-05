@@ -6,7 +6,7 @@
 ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20apache2%20web%20sever/img/3.png?raw=true)
 
 
-2. Lalu install apache2 dengan perintah berikut.
+2. Lalu install apache2 web server dengan perintah berikut.
 ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20apache2%20web%20sever/img/2.png?raw=true)
 
 
