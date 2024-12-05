@@ -1,6 +1,8 @@
 ## Instal Apache2 Web Server
 
-<h3>1. Langkah awal ketikan perintah untuk selalu update tunggu proses loading hingga selesai.
+<h3>
+
+1. Langkah awal ketikan perintah untuk selalu update tunggu proses loading hingga selesai.
 ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20apache2%20web%20sever/img/3.png?raw=true)
 
 
