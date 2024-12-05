@@ -14,6 +14,6 @@
 ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20apache2%20web%20sever/img/4.png?raw=true)
 
 
-4. Salin alamat IP dan copy paste ke browser web kalian dan akan muncul ke halaman page Apache2.
+4. Salin alamat IP dan copy paste ke browser web dan akan muncul ke halaman page Apache2.
 ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%201/Install%20apache2%20web%20sever/img/1.png?raw=true)</h3>
 
