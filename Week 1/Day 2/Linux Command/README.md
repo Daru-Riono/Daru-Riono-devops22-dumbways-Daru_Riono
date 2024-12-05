@@ -25,25 +25,25 @@
 
     ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/6.PNG?raw=true)
 
-7. 
+7. Menghapus file di linux.
 
-    ![gambar](?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/7.PNG?raw=true)
 
-8. 
+8. Menghapus folder dan file secara bersamaan di linux.
 
-    ![gambar](?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/8.PNG?raw=true)
 
-9. 
+9. Merubah nama file dengan perintah berikut.
 
-    ![gambar](?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/9.PNG?raw=true)
 
-10. 
+10. Menambahkan string pertama tanpa harus menggunakan perintah nano.
 
-    ![gambar](?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/10.PNG?raw=true)
 
-11. 
+11. Menambahkan string kedua tanpa harus menggunakan perintah nano.
 
-    ![gambar](?raw=true)
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/11.PNG?raw=true)
 
 
 
