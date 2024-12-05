@@ -17,11 +17,11 @@
 
     ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/4.PNG?raw=true)
 
-5. 
-    ![gambar](?raw=true)
+5. Cara menghapus file di linux.
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/5.PNG?raw=true)
 
-6. 
-    ![gambar](?raw=true)
+6. Cara membuat file baru di linux.
+    ![gambar](https://github.com/Daru-Riono/devops22-dumbways-Daru_Riono/blob/main/Week%201/Day%202/Linux%20Command/img/6.PNG?raw=true)
 
 7. 
     ![gambar](?raw=true)
